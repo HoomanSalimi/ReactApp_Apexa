@@ -134,7 +134,7 @@ const Appi = () => {
         setEditadvisorId('');
     }
 
-    return (<div className="container">
+    return (<React.Fragment>
 
         <Container>
             <Row>
@@ -212,7 +212,7 @@ const Appi = () => {
             </Modal.Footer>
         </Modal>
 
-    </div>);
+    </React.Fragment>);
 
 
 
