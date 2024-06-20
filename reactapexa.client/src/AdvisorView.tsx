@@ -153,7 +153,7 @@ const Appi = () => {
         </Container>
         <br></br>
 
-        <table className="table table-dark table-striped-columns" >
+        <table className="container table table-dark table-striped-columns" >
             <thead>
                 <tr>
                     <th>Name</th>
