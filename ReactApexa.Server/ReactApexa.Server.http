@@ -1,0 +1,6 @@
+@ReactApexa.Server_HostAddress = http://localhost:5116
+
+GET {{ReactApexa.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
